@@ -12,6 +12,7 @@ Before you continue, ensure you have met the following requirements:
 * Obtain the latest data set from the building management system as csv file.
 * Install latest version of python
 * Install latest version of TensorFlow
+* Install latest version of [Dash](https://dash.plotly.com/installation)
 
 ## Contributing
 
