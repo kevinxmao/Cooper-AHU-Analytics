@@ -1,7 +1,7 @@
 # Air Handling Units Analytics for Building Energy Efficiency
 
 - Senior project related to predicting and optimizing Air Handling Unit energy consumption using machine learning and deep learning algorithms.
-- Web application deploed on [Heroku](https://ahu3dashboard.herokuapp.com) to display energy data and results for analytics.
+- Web application deployed on [Heroku](https://ahu3dashboard.herokuapp.com) to display energy data and results for analytics.
 - Intended use for Cooper Union students, faculty and staff.
 
 
